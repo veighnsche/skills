@@ -1,0 +1,7 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "veighnsche-skills",
+  "version": "0.1.0",
+  "description": "Reusable agent skills maintained by veighnsche.",
+  "repository": "https://github.com/veighnsche/skills"
+}
